@@ -18,5 +18,5 @@ Skills: Elixir, Erlang, Java, Blockchain, PostgreSQL, Docker, Distributed System
 - Carros Raros Portugal (https://www.carrosraros.pt) | Elixir/Phoenix/LiveView | PostgreSQL
 
 ## Talks
-- CAPTCHA - [Slides](https://slides.com/davidmagalhaes/captcha)
-- CarDatabase | Sapo CodeBits 2013 - [YouTube](https://youtu.be/BBufCou72_I)
+- CAPTCHA (2016) - [Slides](https://slides.com/davidmagalhaes/captcha)
+- CarDatabase | Sapo CodeBits (2013) - [YouTube](https://youtu.be/BBufCou72_I)
