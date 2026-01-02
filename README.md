@@ -15,7 +15,8 @@ Skills: Elixir, Erlang, Java, Blockchain, PostgreSQL, Docker, Distributed System
 - [CyberSource Payment System — The implementation guide using Elixir](https://medium.com/p/4b03909c5175) - 2018/01/25
 
 ## Side projects
-- [Carros Raros Portugal](https://www.carrosraros.pt) | Elixir/Phoenix/LiveView | PostgreSQL
+- Carros Raros Portugal (https://www.carrosraros.pt) | Elixir/Phoenix/LiveView | PostgreSQL
 
 ## Talks
-TBC
+- CAPTCHA - [Slides](https://slides.com/davidmagalhaes/captcha)
+- CarDatabase | Sapo CodeBits 2013 - [YouTube](https://youtu.be/BBufCou72_I)
