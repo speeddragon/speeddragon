@@ -10,7 +10,7 @@ Skills: Elixir, Erlang, Java, Blockchain, PostgreSQL, Docker, Distributed System
 - Fix ceil and pow bug [#101](https://github.com/Qqwy/elixir-rational/pull/101)
 
 ## Side projects
-TBC
+- [Carros Raros Portugal](https://www.carrosraros.pt) | Elixir/Phoenix/LiveView | PostgreSQL
 
 ## Talks
 TBC
